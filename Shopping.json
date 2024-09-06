@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "Shopping Cidade",
+        "Endereço": " Rua dos Tupis, 337 - Centro, Belo Horizonte - MG, 30190-060",
+        "Cep": "30190-060",
+        "Lojas": 100,
+        "Vagas": 200
+    },
+    {
+        "id": 2,
+        "nome": "BH Shopping",
+        "Endereço": "BR-356, 3049 - Belvedere, Belo Horizonte - MG, 30320-900",
+        "Cep": "30320-900",
+        "Lojas": 150,
+        "Vagas": 200
+    },
+    {
+        "id": 3,
+        "nome": "Shopping Boulevard",
+        "Endereço": "Av. dos Andradas, 3000 - Santa Efigênia, Belo Horizonte - MG, 30260-070",
+        "Cep": "30260-070",
+        "Lojas": 150,
+        "Vagas": 200
+    }
+]

@@ -1,0 +1,31 @@
+[
+
+    {
+        "id": 1,
+        "nome": "Estações",
+        "Editora": "Moderna",
+        "Autor": "Daniel Munduruku",
+        "Preço": 100,
+        "Idioma": "Portugues",
+        "Quantidade": 100
+    },
+    {
+        "id": 2,
+        "nome": "Irmandade de Duna",
+        "Editora": "Aleph",
+        "Autor": "Brian Herbert",
+        "Preço": 120,
+        "Idioma": "Portugues",
+        "Quantidade": 100
+    },
+    {
+        "id": 3,
+        "nome": "A empregada",
+        "Editora": "Arqueiro",
+        "Autor": "Freida Mcfadden",
+        "Preço": 120,
+        "Idioma": "Ingles",
+        "Quantidade": 100
+    }
+
+]

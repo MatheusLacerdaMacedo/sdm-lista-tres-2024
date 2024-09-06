@@ -1,0 +1,33 @@
+[
+
+        {
+            "id": 1,
+            "nome": "c180",
+            "marca": "Mercedes",
+            "Preço": 200000,
+            "Quantidade": 100
+        },
+        {
+            "id": 2,
+            "nome": "Uno",
+            "marca": "Fiat",
+            "Preço": 40000,
+            "Quantidade": 100
+        },
+        {
+            "id": 3,
+            "nome": "Fastback",
+            "marca": "Fiat",
+            "Preço": 1200000,
+            "Quantidade": 100
+        },
+        {
+            "id": 4,
+            "nome": "Pulse",
+            "marca": "Fiat",
+            "Preço": 100000,
+            "Quantidade": 100
+        }
+
+    
+]

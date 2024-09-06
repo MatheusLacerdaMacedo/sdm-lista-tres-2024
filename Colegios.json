@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Escola municipal Marconi",
+        "Endereço": " Av. do Contorno, 8476 - Gutierrez, Belo Horizonte - MG, 30110-062",
+        "Cep": "30110-062",
+        "Alunos":"1000",
+        "Funcionarios":"100",
+        "Grau":"Fundamental",
+        "Mensalidade":"0"
+    },
+    {
+        "id": 2,
+        "nome": "Escola Estadual Maestro Villa Lobos",
+        "Endereço": " R. Ouro Preto, 1144 - Santo Agostinho, Belo Horizonte - MG, 30170-041",
+        "Cep": "30170-041",
+        "Alunos":"1000",
+        "Funcionarios":"100",
+        "Grau":"Ensino Médio",
+        "Mensalidade":"0"
+    },
+    {
+        "id": 3,
+        "nome": "Colegio Chromos ",
+        "Endereço": "  R. da Bahia, 1212 - Centro, Belo Horizonte - MG, 30160-011",
+        "Cep": "30160-011",
+        "Alunos":"500",
+        "Funcionarios":"100",
+        "Grau":"Fundamental, Ensino Médio",
+        "Mensalidade":"1200"
+    }
+]

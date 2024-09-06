@@ -1,0 +1,26 @@
+[
+{
+    "id":1,
+    "nome":"Martelo",
+    "Preço": 20,
+    "Quantidade": 500
+},
+{
+    "id":2,
+    "nome":"Prego",
+    "Preço": 8,
+    "Quantidade": 2000
+},
+{
+    "id":3,
+    "nome":"Alicate",
+    "Preço": 15,
+    "Quantidade": 300
+},
+{
+    "id":4,
+    "nome":"Alicate de corte",
+    "Preço": 18,
+    "Quantidade": 450
+}
+]
